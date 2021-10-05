@@ -1,2 +1,3 @@
-# Revis-o-JS
-revisão em javascript
+# Revisao-JS
+revisão em javascripts
+- pela rocket
