@@ -1,2 +1,2 @@
-# Revis-o-JS
+# Revisao-JS
 revisão em javascript
